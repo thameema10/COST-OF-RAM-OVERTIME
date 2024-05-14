@@ -1,0 +1,65 @@
+                                                        COST OF RAM OVERTIME
+
+INTRODUCTION:
+      RAM, or Random Access Memory, is a type of computer memory that can be read from and written to in any order.
+It is used to store working data and machine code in computers, workstations, and servers. The cost of RAM can vary
+over time due to factors such as advancements in technology, increased competition in the market, and the demands of 
+newer software and operating systems. While the initial cost of RAM can be relatively high, especially for larger
+capacities and faster speeds, the cost has generally decreased over time. However, there may be additional costs over 
+time for upgrading or replacing aging RAM, as well as energy costs for operating it. Non-volatile RAM has also been 
+developed, which allows for random access for read operations and either does not allow write operations or has other 
+limitations.
+
+
+SUMMARY:
+     The cost of RAM, or Random Access Memory, has been a topic of interest for many individuals and businesses over 
+the years. RAM is a crucial component of any computer system, used to store working data and machine code. The cost
+of RAM can vary depending on factors such as type, capacity, and speed, and has generally decreased over time due to 
+advancements in technology and increased competition in the market. However, there may still be additional costs over 
+time for upgrading or replacing aging RAM, as well as energy costs for operating it. Non-volatile RAM has also been 
+developed, which allows for random access for read operations and either does not allow write operations or has 
+other limitations. Overall, the cost of RAM over time should be considered in terms of both the initial purchase price 
+and any potential long-term costs.
+
+
+DESCRIPTION:
+     The cost of RAM has significantly decreased over time, with a notable drop in price per megabyte since its
+inception. In 1957, 1 megabyte of memory cost a staggering $411,041,792, but by 1975, the price had dropped to 
+$421,888. By 1980, the cost had fallen further to $6,480, and by 1990, it was just $106. This dramatic reduction
+in cost has made RAM more accessible and has significantly contributed to the advancement of technology. For instance, 
+in 1985, 512 kilobytes of IBM 512K cost $440, but by 1989, the same amount of memory was available for $119. Similarly, 
+in 1987, 3 megabytes of Pine 3MB Multifunction cost $471, but by 1989, the price had dropped to $117. This trend of 
+decreasing costs has continued, making RAM an essential component in modern computing.
+
+There are two main types of RAM: SRAM (Static Random Access Memory) and DRAM (Dynamic Random Access Memory). SRAM is 
+faster and more expensive, while DRAM is slower and cheaper. SRAM is commonly used for cache memory, while DRAM is used
+for main memory.
+
+SRAM and DRAM have different designs and characteristics. SRAM uses four to six transistors and does not require periodic
+refreshing, while DRAM uses one transistor and one capacitor and requires periodic refreshing. SRAM is faster but consumes 
+more power, while DRAM consumes less power and has a higher density.
+
+The cost of RAM has decreased over time due to advancements in technology and manufacturing processes. In the future, 
+we can expect further advancements in RAM technology, such as the development of new types of RAM with higher speeds, 
+lower power consumption, and higher densities.
+
+However, there are also some disadvantages to using RAM. Since it is volatile memory, the data stored in RAM is lost 
+when the device is turned off. Additionally, RAM is more expensive than other types of memory, such as flash memory.
+
+
+CONCLUSION:
+The cost of RAM has significantly decreased over time, making it more accessible and widely used in various types of 
+devices. In the past, RAM was expensive and limited in capacity, but advancements in technology and manufacturing 
+processes have led to a dramatic reduction in cost and an increase in capacity. Today, RAM is an essential component 
+in modern computing, providing fast and efficient data storage and retrieval. Despite some disadvantages, such as 
+volatility and higher cost compared to other types of memory, the benefits of RAM have made it an indispensable part 
+of modern technology. Looking to the future, we can expect further advancements in RAM technology, such as the development 
+of new types of RAM with higher speeds, lower power consumption, and higher densities. Overall, the decreasing cost of RAM 
+has been a significant factor in the advancement of technology, enabling the development of more powerful and efficient devices.
+
+
+SUBMITTED BY:
+          THAMEEMA HS (AI&DS)
+
+
+
